@@ -21,7 +21,7 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 ---
 
-## 🏅 Certifications
+## 🏅 Future  Certifications
 
 <p align="left">
 <img src="https://img.shields.io/badge/CKA-Kubernetes%20Administrator-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
