@@ -86,37 +86,5 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 
 
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/mohd aarif"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/a"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://amanpathakdevops.medium.com"><img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" /></a>
-<a href="https://www.youtube.com/@aman-pathak"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" /></a>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amanpathak-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpathak-devops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpathak-devops&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpathak-devops&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 📫 Reach me at **aarifalimohd043@gmail.com**<br>
-⚡ Fun fact: I am an extrovert who enjoys solving real production problems
+⚡ Fun fact: I enjoy troubleshooting production issues and turning manual processes into automated solutions.
